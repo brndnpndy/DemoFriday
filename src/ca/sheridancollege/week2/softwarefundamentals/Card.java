@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+// todays date
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
